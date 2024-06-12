@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Baika's GitHub Profile! 👋</h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/MSThkTd/photo-2024-06-12-17-31-43.jpg" alt="Baika's Header Image" />
+  <img src="https://i.ibb.co/MSThkTd/photo-2024-06-12-17-31-43.jpg" width="300" alt="Baika's Header Image" />
 </p>
 
 ---
@@ -105,13 +105,13 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/baimurat-abdalimov-6b226b2b6/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" />
   </a>
-  <a href="https://twitter.com/yourtwitter" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter" width="40" height="40" />
+  <a href="https://www.instagram.com/baika1322/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Twitter" width="40" height="40" />
   </a>
-  <a href="https://gitlab.com/yourgitlab" target="_blank" rel="noreferrer">
+  <a href="https://gitlab.com/baika132213" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="40" height="40" />
   </a>
   <a href="https://github.com/Baimanchick" target="_blank" rel="noreferrer">
