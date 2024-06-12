@@ -1,14 +1,7 @@
 <h1 align="center">Welcome to Baika's GitHub Profile! 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/aibekovislam/aibekovislam/blob/main/assets/header.png" alt="Baika's Header Image" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/aibekovislam?label=Follow%20Me&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/aibekovislam?label=GitHub%20Stars&style=social" alt="GitHub Stars" />
+  <img src="https://i.ibb.co/MSThkTd/photo-2024-06-12-17-31-43.jpg" alt="Baika's Header Image" />
 </p>
 
 ---
@@ -16,9 +9,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aibekovislam&show_icons=true&theme=radical&count_private=true" alt="Baika's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aibekovislam&theme=radical" alt="Baika's GitHub Streaks" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibekovislam&layout=compact&theme=radical" alt="Baika's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Baimanchick&show_icons=true&theme=radical&count_private=true" alt="Baika's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baimanchick&theme=radical" alt="Baika's GitHub Streaks" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baimanchick&layout=compact&theme=radical" alt="Baika's Top Languages" />
 </p>
 
 ---
@@ -95,9 +88,17 @@
 
 ## 📝 Recent Blog Posts
 
-- [Post 1](#)
-- [Post 2](#)
-- [Post 3](#)
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="https://i.ibb.co/gm13z5r/photo-2024-06-12-17-39-35.jpg" alt="LinkedIn" width="100" height="100" />
+  </a>
+    <a href="#" target="_blank">
+    <img src="https://i.ibb.co/jWw0PzJ/photo-2024-06-12-17-39-37.jpg" alt="LinkedIn" width="100" height="100" />
+  </a>
+    <a href="#" target="_blank">
+    <img src="https://i.ibb.co/NSbX9ky/photo-2024-06-12-17-39-39.jpg" alt="LinkedIn" width="100" height="100" />
+  </a>
+</p>
 
 ---
 
@@ -113,11 +114,7 @@
   <a href="https://gitlab.com/yourgitlab" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="40" height="40" />
   </a>
-  <a href="https://github.com/aibekovislam" target="_blank" rel="noreferrer">
+  <a href="https://github.com/Baimanchick" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aibekovislam" alt="visitors" />
 </p>
