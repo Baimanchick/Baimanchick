@@ -1,9 +1,5 @@
 <h1 align="center">Welcome to Baika's GitHub Profile! 👋</h1>
 
-<p align="center">
-  <img src="https://i.ibb.co/MSThkTd/photo-2024-06-12-17-31-43.jpg" width="300" alt="Baika's Header Image" />
-</p>
-
 ---
 
 ## 📊 GitHub Stats
