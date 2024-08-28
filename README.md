@@ -82,22 +82,6 @@
 
 ---
 
-## 📝 Recent Blog Posts
-
-<p align="center">
-  <a href="#" target="_blank">
-    <img src="https://i.ibb.co/gm13z5r/photo-2024-06-12-17-39-35.jpg" alt="LinkedIn" width="100" height="100" />
-  </a>
-    <a href="#" target="_blank">
-    <img src="https://i.ibb.co/jWw0PzJ/photo-2024-06-12-17-39-37.jpg" alt="LinkedIn" width="100" height="100" />
-  </a>
-    <a href="#" target="_blank">
-    <img src="https://i.ibb.co/NSbX9ky/photo-2024-06-12-17-39-39.jpg" alt="LinkedIn" width="100" height="100" />
-  </a>
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 <p align="center">
