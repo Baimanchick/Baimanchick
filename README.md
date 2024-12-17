@@ -5,7 +5,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baimanchick&theme=radical" alt="Baika's GitHub Streaks" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baimanchick&layout=compact&theme=radical" alt="Baika's Top Languages" />
 </p>
 
