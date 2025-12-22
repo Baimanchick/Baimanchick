@@ -1,8 +1,8 @@
-<h1 align="center">Welcome to Baika's GitHub Profile! 👋</h1>
+<h1 align="center">Welcome to Baimurats GitHub Profile! 👋</h1>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baimanchick&layout=compact&theme=radical" alt="Baika's Top Languages" />
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Languages and Tools
+## Languages and Tools
 
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -53,7 +53,7 @@
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/baimurat-abdalimov-6b226b2b6/" target="_blank" rel="noreferrer">
