@@ -5,7 +5,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Baimanchick&layout=compact&theme=radical&count_private=true" />
+  <img src="https://metrics.lecoq.io/Baimanchick?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%" />
 </p>
 
 ---
