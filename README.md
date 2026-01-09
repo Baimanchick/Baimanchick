@@ -5,7 +5,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Baimanchick?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%" />
+  <img src="https://github-readme-stats-theta-roan-59.vercel.app/api/top-langs/?username=Baimanchick&layout=compact" />
 </p>
 
 ---
