@@ -1,7 +1,7 @@
 <h1 align="center">Baimurat Abdalimov</h1>
 
 <p align="center">
-  <em>Frontend Developer • ETHBishkek Hackathon Winner</em> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ethereum_logo.svg/960px-Ethereum_logo.svg.png?20240203113221" alt="eth" width="18" height="18" />
+  <em>Frontend Developer • ETHBishkek Hackathon Winner</em> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1280px-Ethereum-icon-purple.svg.png?20200227011040" alt="eth" width="18" height="18" />
 </p>
 
 <br>
