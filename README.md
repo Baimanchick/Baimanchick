@@ -25,12 +25,6 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats-theta-roan-59.vercel.app/api/top-langs/?username=Baimanchick&layout=compact&theme=transparent&hide_border=true&langs_count=6" />
-</p>
-
-<br>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/baimurat-abdalimov-6b226b2b6/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
